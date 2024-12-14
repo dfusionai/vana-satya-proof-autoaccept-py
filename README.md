@@ -1,6 +1,6 @@
-# Vana Satya Proof of Contribution - Autoreject
+# Vana Satya Proof of Contribution - Autoaccept
 
-This repository serves as a template for creating a [proof of contribution](https://docs.vana.org/vana/core-concepts/key-elements/proof-of-contribution) tasks using Python. This particular version autorejects the files and gives 0 scores.
+This repository serves as a template for creating a [proof of contribution](https://docs.vana.org/vana/core-concepts/key-elements/proof-of-contribution) tasks using Python. This particular version autorejects the files and gives 1.0 scores.
 
 ## Overview
 
